@@ -75,13 +75,9 @@ This class creates the main window of the calculator application, handles user i
 
 Include screenshots here demonstrating different scenarios. Make sure you have taken actual screenshots of your running calculator and placed the image files (e.g., `addition.png`, `multiplication.png`, `division_by_zero.png`, `clear.png`, `backspace.png`) in a folder named `screenshots` within your repository.
 
-**Sample Run 1: Addition**
+**Sample Run 1: output**
 
-![Addition](screenshots/addition.png)
-**Input (Button Clicks):** `5` `+` `3` `=`
-**Output (QLineEdit):** `8`
+[IMAGE 2025-03-19 15:32:42](https://github.com/user-attachments/assets/f47c8202-851d-4fbb-92d1-d476b79943a6)
 
-**Sample Run 2: Multiplication**
 
-![Multiplication](screenshots/multiplication.png)
-**
+
